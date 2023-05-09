@@ -12,11 +12,11 @@ This page contains the details of different CVEs found in the security analysis 
 
 | CVE ID                  | Name    | Link          |
 | ----------------------- | ------- | ------------- |
-| CVE-XXXX-XXXX (TBA) | Network Credentials Disclosure | [GitHub](https://github.com/SECloudUNIMORE/ACES/Tenda/CP3/tmp_NCD) |
-| CVE-XXXX-XXXX (TBA) | Physical Root Access | [GitHub](https://github.com/SECloudUNIMORE/ACES/Tenda/CP3/tmp_PRA) |
-| CVE-XXXX-XXXX (TBA) | Physical Bootloader Access | [GitHub](https://github.com/SECloudUNIMORE/ACES/Tenda/CP3/tmp_PBA) |
-| CVE-XXXX-XXXX (TBA) | Remote Root Access | [GitHub](https://github.com/SECloudUNIMORE/ACES/Tenda/CP3/tmp_RRA) |
-| CVE-XXXX-XXXX (TBA) | RTSP Access | [GitHub](https://github.com/SECloudUNIMORE/ACES/Tenda/CP3/tmp_RTSPa) |
-| CVE-XXXX-XXXX (TBA) | Malicious Upgrade | [GitHub](https://github.com/SECloudUNIMORE/ACES/Tenda/CP3/tmp_MU) |
-| CVE-XXXX-XXXX (TBA) | Unauthenticated RCE | [GitHub](https://github.com/SECloudUNIMORE/ACES/Tenda/CP3/tmp_uRCE) |
+| CVE-XXXX-XXXX (TBA) | Network Credentials Disclosure | [GitHub](CP3/tmp_NCD.md) |
+| CVE-XXXX-XXXX (TBA) | Physical Root Access | [GitHub](CP3/tmp_PRA.md) |
+| CVE-XXXX-XXXX (TBA) | Physical Bootloader Access | [GitHub](CP3/tmp_PBA.md) |
+| CVE-XXXX-XXXX (TBA) | Remote Root Access | [GitHub](CP3/tmp_RRA.md) |
+| CVE-XXXX-XXXX (TBA) | RTSP Access | [GitHub](CP3/tmp_RTSPa.md) |
+| CVE-XXXX-XXXX (TBA) | Malicious Upgrade | [GitHub](CP3/tmp_MU.md) |
+| CVE-XXXX-XXXX (TBA) | Unauthenticated RCE | [GitHub](CP3/tmp_uRCE.md) |
 
