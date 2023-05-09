@@ -9,4 +9,4 @@ This repository contains all the research output of the ACES (Automotive, Cyber-
 
 ## References
  - [[Automotive] ACS GitHub repository](https://github.com/SECloudUNIMORE/ACS/)
- - [[Embedded] IP Cam CVE report](https://github.com/SECloudUNIMORE/ACES/Tenda)
+ - [[Embedded] IP Cam CVE report](Tenda/)
