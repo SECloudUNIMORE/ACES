@@ -2,7 +2,7 @@
 
 ## CVE Number
 
-TBA
+[CVE-2023-30352](https://www.cve.org/CVERecord?id=CVE-2023-30352)
 
 ## Summary
 

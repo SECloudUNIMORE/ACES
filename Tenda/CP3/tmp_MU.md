@@ -2,7 +2,7 @@
 
 ## CVE Number
 
-TBA
+[CVE-2023-30356](https://www.cve.org/CVERecord?id=CVE-2023-30356)
 
 ## Summary
 
@@ -28,3 +28,5 @@ TBA
 ## Details
 
 By triggering the update procedure on the camera with a maliciously-modified firmware it is possibile to overwrite the official firmware and to prevent future updates. Any modification to the firmware is persistent.
+
+### Related CVEs:
