@@ -30,3 +30,4 @@ TBA
 By triggering the update procedure on the camera with a maliciously-modified firmware it is possibile to overwrite the official firmware and to prevent future updates. Any modification to the firmware is persistent.
 
 ### Related CVEs:
+ 
