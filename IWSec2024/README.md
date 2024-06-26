@@ -7,7 +7,7 @@ This page contains the scripts and tools used for finding vulnerabilities in the
 ## Content
 This repo includes two major scripts:
   - `rootfs_extractor.sh`: a bash script used to extract the different partitions from the flash image;
-  - `call_tree.py`: a Ghidra plugin that constructs a tree of function invocations from the main including only branches that contains one of the interesting functions (the `TARGET` list of the script)
+  - `call_tree.py`: a Ghidra script that constructs a tree of function invocations from the `main` function including only branches that contains one of the interesting functions (the `TARGET` list of the script)
 
 
 ## Credits
