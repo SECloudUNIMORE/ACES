@@ -11,3 +11,4 @@ This repository contains all the research output of the ACES (Automotive, Cyber-
  - [[Automotive] ACS GitHub repository](https://github.com/SECloudUNIMORE/ACS/)
  - [[Embedded] IP Cam CVE report](Tenda/)
  - [[SDR] RollJam GNURadio](SDR-RollJam-access/)
+ - [[Embedded] Smart Lock report](Yale/)
